@@ -1,0 +1,4 @@
+*.zip
+log/
+db/
+rabbitmq_server-*/
